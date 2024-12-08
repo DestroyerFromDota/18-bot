@@ -9,7 +9,7 @@ import random
 
 # Вместо BOT TOKEN HERE нужно вставить токен вашего бота,
 # полученный у @BotFather
-BOT_TOKEN: str = '5055705391:AAG3vFzypYSJlDo5Q4yAV4g0gPzmS-rf2u8'
+BOT_TOKEN: str = ''
 
 # Создаем объекты бота и диспетчера
 bot: Bot = Bot(BOT_TOKEN)
